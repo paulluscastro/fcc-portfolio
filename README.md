@@ -1,2 +1,2 @@
 # fcc-portfolio
-This page is a demonstration of how to use Twitch TV JSON API.  Created for the "Use the Twitchtv JSON API" exercise of Free Code Camp.
+Portfolio implemented fro Free Code Camp activities.
